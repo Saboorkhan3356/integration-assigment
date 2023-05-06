@@ -1,0 +1,252 @@
+{
+    "uuid": "3ce8d089-af25-46a9-972f-57cf139cb45a",
+    "fname": "input_01.csv",
+    "erros": [
+        "Row with system Id '02EDC235D00C4FF1A7245550E4EC3216' has invalid date in 'contract_endDate'",
+        "Row with system Id '02EDC235D00C4FF1A7245550E4EC3216' has empty or null 'compensation_amount'",
+        "Row with system Id '02EDC235D00C4FF1A7245550E4EC3216' has invalid data type in 'compensation_amount'",
+        "Row with system Id '02EDC235D00C4FF1A7245550E4EC3216' has empty or null 'compensation_currency'",
+        "Row with system Id '02EDC235D00C4FF1A7245550E4EC3216' has invalid 'compensation_currency'",
+        "Row with system Id '02EDC235D00C4FF1A7245550E4EC3216' has empty or null 'compensation_effectiveFrom'",
+        "Row with system Id '02EDC235D00C4FF1A7245550E4EC3216' has invalid date in 'compensation_effectiveFrom'",
+        "Row with system Id '02EDC235D00C4FF1A7245550E4EC3216' has empty or null 'compensation_effectiveTo'",
+        "Row with system Id '02EDC235D00C4FF1A7245550E4EC3216' has invalid date in 'compensation_effectiveTo'",
+        "Row with system Id '09E85CF7C0AE48F386ABCD14BCA66C67' has invalid date in 'contract_endDate'",
+        "Row with system Id '98CBACE8E0694049AFF768B747441F89' has empty or null 'contract_workStartDate'",
+        "Row with system Id '98CBACE8E0694049AFF768B747441F89' has invalid date in 'contract_workStartDate'",
+        "Row with system Id '98CBACE8E0694049AFF768B747441F89' has empty or null 'compensation_amount'",
+        "Row with system Id '98CBACE8E0694049AFF768B747441F89' has invalid data type in 'compensation_amount'",
+        "Row with system Id '98CBACE8E0694049AFF768B747441F89' has empty or null 'compensation_currency'",
+        "Row with system Id '98CBACE8E0694049AFF768B747441F89' has invalid 'compensation_currency'",
+        "Row with system Id '98CBACE8E0694049AFF768B747441F89' has empty or null 'compensation_effectiveFrom'",
+        "Row with system Id '98CBACE8E0694049AFF768B747441F89' has invalid date in 'compensation_effectiveFrom'",
+        "Row with system Id '98CBACE8E0694049AFF768B747441F89' has empty or null 'compensation_effectiveTo'",
+        "Row with system Id '98CBACE8E0694049AFF768B747441F89' has invalid date in 'compensation_effectiveTo'",
+        "Row with system Id '91E58776B2CC43CDB4C12E02EE7D0169' has empty or null 'contract_workerId'",
+        "Row with system Id '91E58776B2CC43CDB4C12E02EE7D0169' has invalid date in 'contract_endDate'",
+        "Row with system Id '91E58776B2CC43CDB4C12E02EE7D0169' has empty or null 'compensation_amount'",
+        "Row with system Id '91E58776B2CC43CDB4C12E02EE7D0169' has invalid data type in 'compensation_amount'",
+        "Row with system Id '91E58776B2CC43CDB4C12E02EE7D0169' has empty or null 'compensation_currency'",
+        "Row with system Id '91E58776B2CC43CDB4C12E02EE7D0169' has invalid 'compensation_currency'",
+        "Row with system Id '91E58776B2CC43CDB4C12E02EE7D0169' has empty or null 'compensation_effectiveFrom'",
+        "Row with system Id '91E58776B2CC43CDB4C12E02EE7D0169' has invalid date in 'compensation_effectiveFrom'",
+        "Row with system Id '91E58776B2CC43CDB4C12E02EE7D0169' has empty or null 'compensation_effectiveTo'",
+        "Row with system Id '91E58776B2CC43CDB4C12E02EE7D0169' has invalid date in 'compensation_effectiveTo'",
+        "Row with system Id '65F7F49843B04AE6B871ABBBAB03B8EC' has empty or null 'compensation_amount'",
+        "Row with system Id '65F7F49843B04AE6B871ABBBAB03B8EC' has invalid data type in 'compensation_amount'",
+        "Row with system Id '65F7F49843B04AE6B871ABBBAB03B8EC' has empty or null 'compensation_currency'",
+        "Row with system Id '65F7F49843B04AE6B871ABBBAB03B8EC' has invalid 'compensation_currency'",
+        "Row with system Id '65F7F49843B04AE6B871ABBBAB03B8EC' has empty or null 'compensation_effectiveFrom'",
+        "Row with system Id '65F7F49843B04AE6B871ABBBAB03B8EC' has invalid date in 'compensation_effectiveFrom'",
+        "Row with system Id '65F7F49843B04AE6B871ABBBAB03B8EC' has empty or null 'compensation_effectiveTo'",
+        "Row with system Id '65F7F49843B04AE6B871ABBBAB03B8EC' has invalid date in 'compensation_effectiveTo'",
+        "Row with system Id '23C73C483F434848875FA0E6A7CBC9B5' has invalid date in 'contract_endDate'",
+        "Row with system Id '00464B34B3E2453980DC1BABB8BAF2D9' has invalid date in 'contract_endDate'",
+        "Row with system Id 'AE14B9E3D40941D7B24119215BBE2F6C' has empty or null 'contract_workStartDate'",
+        "Row with system Id 'AE14B9E3D40941D7B24119215BBE2F6C' has invalid date in 'contract_workStartDate'",
+        "Row with system Id 'AE14B9E3D40941D7B24119215BBE2F6C' has invalid date in 'contract_endDate'",
+        "Row with system Id 'AE14B9E3D40941D7B24119215BBE2F6C' has empty or null 'pay_amount'",
+        "Row with system Id 'AE14B9E3D40941D7B24119215BBE2F6C' has invalid data type in 'pay_amount'",
+        "Row with system Id 'AE14B9E3D40941D7B24119215BBE2F6C' has empty or null 'pay_currency'",
+        "Row with system Id 'AE14B9E3D40941D7B24119215BBE2F6C' has invalid 'pay_currency'",
+        "Row with system Id 'AE14B9E3D40941D7B24119215BBE2F6C' has empty or null 'pay_effectiveFrom'",
+        "Row with system Id 'AE14B9E3D40941D7B24119215BBE2F6C' has invalid date in 'pay_effectiveFrom'",
+        "Row with system Id 'AE14B9E3D40941D7B24119215BBE2F6C' has empty or null 'pay_effectiveTo'",
+        "Row with system Id 'AE14B9E3D40941D7B24119215BBE2F6C' has invalid date in 'pay_effectiveTo'",
+        "Row with system Id 'AE14B9E3D40941D7B24119215BBE2F6C' has empty or null 'compensation_amount'",
+        "Row with system Id 'AE14B9E3D40941D7B24119215BBE2F6C' has invalid data type in 'compensation_amount'",
+        "Row with system Id 'AE14B9E3D40941D7B24119215BBE2F6C' has empty or null 'compensation_currency'",
+        "Row with system Id 'AE14B9E3D40941D7B24119215BBE2F6C' has invalid 'compensation_currency'",
+        "Row with system Id 'AE14B9E3D40941D7B24119215BBE2F6C' has empty or null 'compensation_effectiveFrom'",
+        "Row with system Id 'AE14B9E3D40941D7B24119215BBE2F6C' has invalid date in 'compensation_effectiveFrom'",
+        "Row with system Id 'AE14B9E3D40941D7B24119215BBE2F6C' has empty or null 'compensation_effectiveTo'",
+        "Row with system Id 'AE14B9E3D40941D7B24119215BBE2F6C' has invalid date in 'compensation_effectiveTo'",
+        "Row with system Id '3BCCBF9330164EF79D86F239F9875C32' has invalid date in 'contract_endDate'",
+        "Row with system Id '3BCCBF9330164EF79D86F239F9875C32' has empty or null 'pay_amount'",
+        "Row with system Id '3BCCBF9330164EF79D86F239F9875C32' has invalid data type in 'pay_amount'",
+        "Row with system Id '3BCCBF9330164EF79D86F239F9875C32' has empty or null 'pay_currency'",
+        "Row with system Id '3BCCBF9330164EF79D86F239F9875C32' has invalid 'pay_currency'",
+        "Row with system Id '3BCCBF9330164EF79D86F239F9875C32' has empty or null 'pay_effectiveFrom'",
+        "Row with system Id '3BCCBF9330164EF79D86F239F9875C32' has invalid date in 'pay_effectiveFrom'",
+        "Row with system Id '3BCCBF9330164EF79D86F239F9875C32' has empty or null 'pay_effectiveTo'",
+        "Row with system Id '3BCCBF9330164EF79D86F239F9875C32' has invalid date in 'pay_effectiveTo'",
+        "Row with system Id '3BCCBF9330164EF79D86F239F9875C32' has empty or null 'compensation_amount'",
+        "Row with system Id '3BCCBF9330164EF79D86F239F9875C32' has invalid data type in 'compensation_amount'",
+        "Row with system Id '3BCCBF9330164EF79D86F239F9875C32' has empty or null 'compensation_currency'",
+        "Row with system Id '3BCCBF9330164EF79D86F239F9875C32' has invalid 'compensation_currency'",
+        "Row with system Id '3BCCBF9330164EF79D86F239F9875C32' has empty or null 'compensation_effectiveFrom'",
+        "Row with system Id '3BCCBF9330164EF79D86F239F9875C32' has invalid date in 'compensation_effectiveFrom'",
+        "Row with system Id '3BCCBF9330164EF79D86F239F9875C32' has empty or null 'compensation_effectiveTo'",
+        "Row with system Id '3BCCBF9330164EF79D86F239F9875C32' has invalid date in 'compensation_effectiveTo'",
+        "Row with system Id '6DC7CCC5F48543E5BE6243957EED0A14' has empty or null 'contract_workerId'",
+        "Row with system Id '6DC7CCC5F48543E5BE6243957EED0A14' has invalid date in 'contract_endDate'",
+        "Row with system Id '6DC7CCC5F48543E5BE6243957EED0A14' has empty or null 'pay_amount'",
+        "Row with system Id '6DC7CCC5F48543E5BE6243957EED0A14' has invalid data type in 'pay_amount'",
+        "Row with system Id '6DC7CCC5F48543E5BE6243957EED0A14' has empty or null 'compensation_amount'",
+        "Row with system Id '6DC7CCC5F48543E5BE6243957EED0A14' has invalid data type in 'compensation_amount'",
+        "Row with system Id '6DC7CCC5F48543E5BE6243957EED0A14' has empty or null 'compensation_currency'",
+        "Row with system Id '6DC7CCC5F48543E5BE6243957EED0A14' has invalid 'compensation_currency'",
+        "Row with system Id '6DC7CCC5F48543E5BE6243957EED0A14' has empty or null 'compensation_effectiveFrom'",
+        "Row with system Id '6DC7CCC5F48543E5BE6243957EED0A14' has invalid date in 'compensation_effectiveFrom'",
+        "Row with system Id '6DC7CCC5F48543E5BE6243957EED0A14' has empty or null 'compensation_effectiveTo'",
+        "Row with system Id '6DC7CCC5F48543E5BE6243957EED0A14' has invalid date in 'compensation_effectiveTo'"
+    ],
+    "payLoad": [
+        {
+            "employeeCode": "611207BE",
+            "action": "hire",
+            "data": {
+                "person.hire_date": "1992-07-01",
+                "person.full_name": "Alberto Leonard",
+                "person.birthdate": "1961-12-07",
+                "person.gender": "M"
+            },
+            "payComponents": [
+                {
+                    "startDate": "2022-01-01",
+                    "endDate": "2022-01-31",
+                    "amount": 3300.0,
+                    "currency": "USD"
+                }
+            ]
+        },
+        {
+            "employeeCode": "660831F5",
+            "action": "change",
+            "data": {
+                "person.hire_date": "1998-09-06",
+                "person.full_name": "Hazel Webster",
+                "person.birthdate": "1966-08-31",
+                "person.gender": "F"
+            },
+            "payComponents": [
+                {
+                    "startDate": "2022-01-01",
+                    "endDate": "2022-01-31",
+                    "amount": 4400.0,
+                    "currency": "EUR"
+                },
+                {
+                    "startDate": "2021-01-01",
+                    "endDate": "2021-12-31",
+                    "amount": 500.0,
+                    "currency": "EUR"
+                }
+            ]
+        },
+        {
+            "employeeCode": "6711242C",
+            "action": "change",
+            "data": {
+                "person.full_name": "Tara Maynard",
+                "person.birthdate": "1967-11-24",
+                "person.gender": "F",
+                "person.termination_date": "1999-09-06"
+            },
+            "payComponents": [
+                {
+                    "startDate": "2022-01-01",
+                    "endDate": "2022-01-31",
+                    "amount": 4100.0,
+                    "currency": "EUR"
+                }
+            ]
+        },
+        {
+            "employeeCode": "7805046C",
+            "action": "terminate",
+            "data": {
+                "person.hire_date": "2007-07-18",
+                "person.birthdate": "1978-05-04",
+                "person.gender": "F",
+                "person.termination_date": "2007-12-31"
+            },
+            "payComponents": [
+                {
+                    "startDate": "2022-01-01",
+                    "endDate": "2022-01-31",
+                    "amount": 1500.0,
+                    "currency": "EUR"
+                }
+            ]
+        },
+        {
+            "employeeCode": "80072480",
+            "action": "hire",
+            "data": {
+                "person.hire_date": "2013-05-31",
+                "person.full_name": "Brock Salazar",
+                "person.birthdate": "1980-07-24",
+                "person.gender": "M"
+            },
+            "payComponents": [
+                {
+                    "startDate": "2022-01-01",
+                    "endDate": "2022-01-31",
+                    "amount": 1400.0,
+                    "currency": "EUR"
+                },
+                {
+                    "startDate": "2022-01-01",
+                    "endDate": "2022-01-31",
+                    "amount": 100.0,
+                    "currency": "EUR"
+                }
+            ]
+        },
+        {
+            "employeeCode": "90040543",
+            "action": "change",
+            "data": {
+                "person.hire_date": "2015-05-31",
+                "person.full_name": "Cole Sloan",
+                "person.birthdate": "1990-04-05",
+                "person.gender": "M"
+            },
+            "payComponents": [
+                {
+                    "startDate": "2022-01-01",
+                    "endDate": "2022-01-31",
+                    "amount": 3000.0,
+                    "currency": "EUR"
+                },
+                {
+                    "startDate": "2022-01-01",
+                    "endDate": "2022-07-01",
+                    "amount": 50.0,
+                    "currency": "EUR"
+                }
+            ]
+        },
+        {
+            "employeeCode": "2005055D",
+            "action": "terminate",
+            "data": {
+                "person.birthdate": "1999-01-13",
+                "person.termination_date": "310322"
+            },
+            "payComponents": []
+        },
+        {
+            "employeeCode": "020121F8",
+            "action": "hire",
+            "data": {
+                "person.hire_date": "2022-03-01",
+                "person.full_name": "Zaiden Arnold",
+                "person.birthdate": "2002-08-02"
+            },
+            "payComponents": []
+        },
+        {
+            "employeeCode": "01102085",
+            "action": "hire",
+            "data": {
+                "person.hire_date": "2022-01-01",
+                "person.full_name": "Norah Church",
+                "person.birthdate": "2008-05-18",
+                "person.gender": "F"
+            },
+            "payComponents": []
+        }
+    ]
+}

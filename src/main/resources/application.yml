@@ -1,0 +1,10 @@
+server:
+  servlet:
+    contextPath : /assignment
+logging:
+  level:
+    root: INFO
+    org.springframework.web: DEBUG
+integration:
+  filename: input_01.csv
+  path: ./src/main/resources/
