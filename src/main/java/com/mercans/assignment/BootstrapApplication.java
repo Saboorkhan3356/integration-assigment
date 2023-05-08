@@ -12,7 +12,7 @@ import com.mercans.assignment.utils.AppUtils;
 
 /**
  * 
- * @author Qasim Waheed 
+ * @author Abdul Saboor 
  * Class providing application entry point
  * 
  */
